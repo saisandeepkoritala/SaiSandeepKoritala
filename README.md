@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Sandeep Koritala</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently working on **dream11 clone - fantasy app** [https://saisandeep-koritala-dream11.netlify.app/]
+- 🔭 I’m currently working on **dream11 clone - fantasy app**, check it out here https://saisandeep-koritala-dream11.netlify.app/
 
 - 🌱 I’m currently learning **Golang**
 

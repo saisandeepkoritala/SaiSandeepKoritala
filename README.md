@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **saisandeep.koritala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1eFo7YQ6IjA4Q4n1ZffAPVezLqPyhVX3v/view?usp=drive_link](https://drive.google.com/file/d/1eFo7YQ6IjA4Q4n1ZffAPVezLqPyhVX3v/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11wQzYSg70uDALZH4xYL2oqtXnMWAImj-/view?usp=drive_link]
 
 - ⚡ Fun fact **I love cricket and coding**
 

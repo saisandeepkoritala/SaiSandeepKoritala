@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **saisandeep.koritala@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11wQzYSg70uDALZH4xYL2oqtXnMWAImj-/view?usp=drive_link]
-
 - ⚡ Fun fact **I love cricket and coding**
 
 <h3 align="left">Connect with me:</h3>

@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Casino Application](https://saisandeepkoritala-casino.netlify.app/)
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **how to integrate Ai into my projects**
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 

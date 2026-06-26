@@ -5,11 +5,11 @@
 
 - 👯 I’m looking to collaborate on **MERN stack projects**
 
-- 🤝 I’m looking for help with **integarting MERN with AI**
+- 🤝 I’m looking for help with **integarting MERN applications with AI**
 
 - 👨‍💻 All of my projects are available at [https://saisandeepkoritala-portfolio.netlify.app/](https://saisandeepkoritala-portfolio.netlify.app/)
 
-- 💬 Ask me about **React and Node**
+- 💬 Ask me about **React, Node, Langchain and LangGraph**
 
 - 📫 How to reach me **saisandeep.koritala@gmail.com**
 

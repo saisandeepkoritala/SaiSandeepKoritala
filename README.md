@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sai Sandeep Koritala</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🌱 I’m currently learning **how to integrate Ai into my Projects**
-
+- 🌱 I’m currently learning **how to integrate AI into my Projects**
 - 👯 I’m looking to collaborate on **MERN stack projects**
-
-- 🤝 I’m looking for help with **integarting MERN applications with AI**
-
-- 👨‍💻 All of my projects are available at [https://saisandeepkoritala-portfolio.netlify.app/](https://saisandeepkoritala-portfolio.netlify.app/)
-
-- 💬 Ask me about **React, Node, Langchain and LangGraph**
-
-- 📫 How to reach me **saisandeepkoritala1999@gmail.com**
-
-- ⚡ Fun fact **I love coding and cricket**
+- 🤝 I’m looking for help with **integrating MERN applications with AI**
+- 👨‍💻 All of my projects are available at [saisandeepkoritala-portfolio.netlify.app](https://saisandeepkoritala-portfolio.netlify.app/)
+- 💬 Ask me about **React, Node, LangChain, and LangGraph**
+- 📫 How to reach me: **saisandeepkoritala1999@gmail.com**
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1bd3aN5o8ZRf5ZizyG1j1jNglyT1llkcN/view?usp=drive_link)
+- ⚡ Fun fact: **I love coding and cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

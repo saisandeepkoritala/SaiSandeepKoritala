@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, Node, Langchain and LangGraph**
 
-- 📫 How to reach me **saisandeep.koritala@gmail.com**
+- 📫 How to reach me **saisandeepkoritala1999@gmail.com**
 
 - ⚡ Fun fact **I love coding and cricket**
 

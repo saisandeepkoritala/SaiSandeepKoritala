@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [saisandeepkoritala-portfolio.netlify.app](https://saisandeepkoritala-portfolio.netlify.app/)
 - 💬 Ask me about **React, Node, LangChain, and LangGraph**
 - 📫 How to reach me: **saisandeepkoritala1999@gmail.com**
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1eCdekmuxKck9sopETSk4X_FfRmJjqmPB/view?usp=sharing)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1hF-SHL31HgUckJcDN30tvRb3n92JTDgt/view?usp=sharing)
 - ⚡ Fun fact: **I love coding and cricket**
 
 <h3 align="left">Connect with me:</h3>

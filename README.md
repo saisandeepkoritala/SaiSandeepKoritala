@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **MERN stack projects**
 - 🤝 I’m looking for help with **integrating MERN applications with AI**
 - 👨‍💻 All of my projects are available at [saisandeepkoritala-portfolio.netlify.app](https://saisandeepkoritala-portfolio.netlify.app/)
-- 💬 Ask me about **React, Node, LangChain, and LangGraph**
+- 💬 Ask me about **React.js, Node.js, Express.js, MongoDB, LangChain, and LangGraph**
 - 📫 How to reach me: **saisandeepkoritala1999@gmail.com**
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1hF-SHL31HgUckJcDN30tvRb3n92JTDgt/view?usp=sharing)
 - ⚡ Fun fact: **I love coding and cricket**
